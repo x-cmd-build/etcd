@@ -1,0 +1,1 @@
+etcd static binary
